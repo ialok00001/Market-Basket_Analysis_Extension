@@ -1,4 +1,4 @@
-# Market-Basket_Analysis_extension_Basics
+# Market-Basket Analysis Extension
 
 This project is an extension to the traditional Market-Basket analysis models, that only give one-to-one association rules. In this section, we have extended this to include many-to-one association rules too, opening more possibilities for the model. With this extension, we can get more powerful association rules.
 
